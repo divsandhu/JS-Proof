@@ -19,7 +19,7 @@ function listNFTs () {
 		console.log("ID:\t\t"+(i+1));
 		console.log("Name:\t\t"+storeNFTs[i].name);
 		console.log("Hair color:\t"+storeNFTs[i].hairColor);
-		console.log("Shirt Type:\t"+storeNFTs[i].shirtStyle);
+		console.log("Shirt Style:\t"+storeNFTs[i].shirtStyle);
 		console.log("Bling:\t\t"+storeNFTs[i].bling);
 		console.log("-----------------------");
 		
